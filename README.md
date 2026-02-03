@@ -1,4 +1,4 @@
 # CostViewer
-cd projects
-cd cost-viewer-backend
-npm run start:dev
+cd projects /n
+cd cost-viewer-backend /n
+npm run start:dev /n
